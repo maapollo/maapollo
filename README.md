@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Hello, World!👋
 
 - 🔭 I’m currently working with .net core and angular 12
-- 🌱 I’m currently learning more about C# and .net core. In the future i'll invest on a react developer
+- 🌱 I’m currently learning more about C# and .net core. In the future i'll invest on a react developer carrer
 - 📫 E-mail: maapollo@yahoo.com.br
 - ⚡ Fun fact: I can't cut food with my left hand, so I keep changing cutlery during the meal
 
